@@ -3,3 +3,5 @@
 :two: [《中国地方志集成--黑龙江府县志辑（全10册）》](https://pan.baidu.com/s/1c1XXQE90Qg6zhwWv_yvOCw?pwd=kfus)
 
 :three: [《中国地方志集成__宁夏府县志辑（全9册）》](https://pan.baidu.com/s/136tLyJOtedUiyZXSdAyR3A?pwd=d35t)
+
+:four:[《天津府县志辑（1-6册）》](https://pan.baidu.com/s/1L_sn9SOTyXssnRDZFyf1dw?pwd=31vg)
