@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-38a31212","path":"/blogs/jichu/shouxiangxue.html","title":"手相学","lang":"en-US","frontmatter":{"title":"手相学","date":"2024/03/10","tags":["基础"],"categories":["基础"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/基础/手相学.md"}');export{t as data};
