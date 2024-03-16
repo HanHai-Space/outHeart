@@ -9,3 +9,5 @@
 :five: [《中国地方志集成__宁夏府县志辑（全9册）》](https://pan.baidu.com/s/1lcf_Qpch2Lu4GP5zsXeC0g?pwd=5ngp)
 
 :six: [《中国地方志集成 北京府县志辑》](https://pan.baidu.com/s/19xPyp0kPcSgyIiZrc4-Jdw?pwd=y54c)
+
+7️⃣ [《中国地方志集成_西藏府县志辑》](https://pan.baidu.com/s/1jKBAPFtdyzo4IP6AO7sNCA?pwd=uory)
