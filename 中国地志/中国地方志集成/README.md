@@ -11,3 +11,5 @@
 :six: [《中国地方志集成 北京府县志辑》](https://pan.baidu.com/s/19xPyp0kPcSgyIiZrc4-Jdw?pwd=y54c)
 
 7️⃣ [《中国地方志集成_西藏府县志辑》](https://pan.baidu.com/s/1jKBAPFtdyzo4IP6AO7sNCA?pwd=uory)
+
+8️⃣ [《山东府县志辑PDF》](https://pan.baidu.com/s/12iCj46Rb7IUurx5qctvELA?pwd=rs6m)
