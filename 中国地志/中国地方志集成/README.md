@@ -19,3 +19,5 @@
 :one: :zero: [《中国地方志集成：江苏府县志辑 （全68册）-1》](https://pan.baidu.com/s/1EYLDskU3xragVDm7ka44Rw?pwd=p694)
 
 :one: :two: [《中国地方志集成：江苏府县志辑 （全68册）-2》](https://pan.baidu.com/s/1DCJvWGNnskBuzYIi6OEZJg?pwd=m3tr)
+
+:one: :three: [《中国地方志集成  浙江府县志辑1》](https://pan.baidu.com/s/12hnXxnqbMfqVGASGRrRi4g?pwd=jijt)
